@@ -48,7 +48,7 @@ __vishnu__
       * sub 3
 
 
-## strikethrough
+## strikethrough 
 ~~vishnu~~
 
 
