@@ -47,8 +47,15 @@ __vishnu__
  * item 2
       * sub 3
 
+## both italic and bold
+
+***vishnu***
 
 ## strikethrough 
 ~~vishnu~~
 
-
+##attach links to text
+```
+[alt message](url)
+```
+[vishnu](
